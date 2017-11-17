@@ -1,4 +1,3 @@
-# 4ids
 # 4chan Image Downloading Script
 This script is something I made for the purposes of testing and experimenting with both urllib and regular expressions in python.
 # Warning
